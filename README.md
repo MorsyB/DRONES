@@ -43,7 +43,7 @@ Sending commands to the clients using the keyboard buttons, then the clients com
 When a particular button is pressed we send a specific message to each client that is connected with the server.
 each button corresponds with a different message, therefore, it corresponds to a different command.
 
-![Keyboard](https://github.com/MorsyB/DRONES/blob/main/keyboard.jpeg)
+![Keyboard](https://github.com/MorsyB/DRONES/blob/main/keyboard.jpg)
 
 
 
