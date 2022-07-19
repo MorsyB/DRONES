@@ -16,7 +16,7 @@ The language that was used in this project, for both of the client and the serve
 *swarm: manipulating the movement of several drones simultaneously.
 
 
-***Project Characterization:*** 
+#### Project Characterization:
 The server opens a connection and waits for the clients to connect, they open a communication network between them, which is a socket.
 Then, each client connects with a drone and communicates with it.
 Now, they're ready to recieve commands from the user.
@@ -43,7 +43,7 @@ Sending commands to the clients using the keyboard buttons, then the clients com
 When a particular button is pressed we send a specific message to each client that is connected with the server.
 each button corresponds with a different message, therefore, it corresponds to a different command.
 
-![Keyboard](https://github.com/MorsyB/DRONES/blob/main/key.jpeg)
+![Keyboard](https://github.com/MorsyB/DRONES/blob/main/keyboard.jpeg)
 
 
 
